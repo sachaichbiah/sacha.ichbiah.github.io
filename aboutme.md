@@ -4,13 +4,14 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a 2nd year Biophysics PhD student at College de France. I am part of Multiscale Physics of Morphogenesis team located in CIRB and supervised by Professor Hervé Turlier. I recently undertook a research sabbatical at the BCAI collaborating with the University of Amsterdam. Currently, I am interning as a Research Scientist at Google DeepMind.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My is to give a 3D description of early embryonic development. I am combining physical modeling and deep learning algorithms to develop auto
+developping deep le
+learning invariant and equivariant representations. Simply put: whereas most of deep learning is concerned with finding the important information in an input, I focus on ignoring harmful or irrelevant parts of information. This is tantamount to leveraging symmetries and can be important to counteract biases or to better leverage structure in the data.
 
-What else do you need?
+I am originally from . Before switching to Biophysics and Computer Vision for my PhD, I studied physics .
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+dd
