@@ -37,8 +37,7 @@ _Research assistant_
 - Research project under supervision of Pr. Aarts in Colloid Group, in a highly international and pluridisciplinary environnement
 - Statistical inference of interactions between particles from electrical microscopy images
 
-### Unistellar
-###### R&D Intern
+### Unistellar ###### R&D Intern
 - Internship in a start up realising a smart telescope. Coded a pipeline of treatment of astronomy images in python. 
 
 ### French Navy
