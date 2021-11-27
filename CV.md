@@ -38,9 +38,22 @@ _Research assistant_
 - Statistical inference of interactions between particles from electrical microscopy images
 
 ### Unistellar
-_R&D Intern_
+###### R&D Intern
 - Internship in a start up realising a smart telescope. Coded a pipeline of treatment of astronomy images in python. 
 
 ### French Navy
 _Navy Officer_
 - Military and management training of Polytechnique curriculum : adjunct of chief of service on "Aconit" frigate
+
+### Technical skills
+
+**Image processing** : Image segmentation, Python libraries : Scikit-Image, PIL, Pandas
+
+**Geometry processing** Computer Graphics (Mesh, FEM), Parallel computing (GPU, Cluster)
+
+**Deep learning** Monte Carlo, Bayesian Inference, Random Matrices, Stochastic Calculus, Machine Learning, Optimization
+
+**Coding skills** : C++, CUDA, Java, Javascript (Flutter, Dart.js), Julia, Linux Environnement (Bash Scripting, Docker, Slurm), Git. Python libraries : Scikit-Image, Pandas, PIL, Pytorch
+
+### Hobbies 
+**Litterature** French and Russian litterature **Sport** Running, Swimming, Workout
